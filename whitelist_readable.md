@@ -17,6 +17,35 @@
 - asonosakan.blogspot.com
 - learnsanskrit.org
 
+# fediverse
+- joinfediverse.wiki
+
+## ActivityPub
+- akkoma.dev
+- friendi.ca
+- funkwhale.audio
+- gnusocial.rocks
+- gotosocial.org
+- hubzilla.org
+- join-lemmy.org
+- joinbookwyrm.com
+- joinfirefish.org
+- joinmastodon.org
+- joinmobilizon.org
+- joinpeertube.org
+- kbin.pub
+- misskey-hub.net
+- owncast.online
+- pixelfed.org
+- pleroma.social
+- writefreely.org
+
+## XMPP
+- xmpp.org
+
+## Matrix
+- matrix.org
+
 # government_institutions
 ## United Nations and its partners
 - un.org
