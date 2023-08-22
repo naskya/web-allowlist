@@ -17,7 +17,7 @@
 - asonosakan.blogspot.com
 - learnsanskrit.org
 
-# fediverse
+# Fediverse
 - joinfediverse.wiki
 
 ## ActivityPub
