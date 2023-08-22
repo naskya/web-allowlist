@@ -1,4 +1,4 @@
-name: Update whitelist
+name: Update allowlist
 
 on:
   push:
@@ -28,37 +28,37 @@ jobs:
               echo "" >> "${file}"
             fi
           done
-      - name: Generate whitelist_readable.md
+      - name: Generate allowlist_readable.md
         shell: bash
         run: |
-          rm -f whitelist_readable.md
+          rm -f allowlist_readable.md
           for file in $(find src -type f -name "*.txt" -print | sort -h); do
-            echo "# ${file:4:-4}" >> whitelist_readable.md
+            echo "# ${file:4:-4}" >> allowlist_readable.md
             cat "${file}" | while read line; do
               if [[ "${line// }" == "" ]]; then
-                echo "" >> whitelist_readable.md
+                echo "" >> allowlist_readable.md
               elif [[ "${line:0:1}" == "#" ]]; then
-                echo "#${line}" >> whitelist_readable.md
+                echo "#${line}" >> allowlist_readable.md
               else
-                echo "- ${line}" >> whitelist_readable.md
+                echo "- ${line}" >> allowlist_readable.md
               fi
             done
-            echo "" >> whitelist_readable.md
+            echo "" >> allowlist_readable.md
           done
-      - name: Generate whitelist.txt
+      - name: Generate allowlist.txt
         shell: bash
         run: |
-          rm -f whitelist.txt
+          rm -f allowlist.txt
           for file in $(find src -type f -name "*.txt" -print | sort -h); do
             cat "${file}" | while read line; do
               if [[ "${line// }" == "" ]]; then
                 continue
               elif [[ "${line:0:1}" != "#" ]]; then
-                echo "*.$(sed "s/^*.//" <<< "${line}")/*" >> whitelist.txt
+                echo "*.$(sed "s/^*.//" <<< "${line}")/*" >> allowlist.txt
               fi
             done
           done
-          echo "" >> whitelist.txt
+          echo "" >> allowlist.txt
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: update whitelist
+          commit_message: update allowlist
