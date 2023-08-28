@@ -120,6 +120,7 @@
 *.qiita.com/*
 *.substack.com/*
 *.hatenablog.com/*
+*.weblio.jp/*
 *.github.com/*
 *.codeberg.org/*
 *.gitlab.com/*

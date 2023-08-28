@@ -173,6 +173,9 @@
 - substack.com
 - hatenablog.com
 
+## Dictionary
+- weblio.jp
+
 ## Software development
 - github.com
 - codeberg.org
