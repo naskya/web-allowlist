@@ -25,11 +25,13 @@
 - sciencedirect.com
 - pnas.org
 - springer.com
+- scipost.org
 
 #### Physics
 - aps.org
 - iop.org
-- quantum-journal.com
+- aip.org
+- quantum-journal.org
 
 # Fediverse
 - joinfediverse.wiki
@@ -186,6 +188,7 @@
 - qiita.com
 - substack.com
 - hatenablog.com
+- blogspot.com
 
 ## Dictionary
 - weblio.jp
