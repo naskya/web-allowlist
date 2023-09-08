@@ -4,10 +4,18 @@
 *.kek.jp/*
 *.edu/*
 *.ac.uk/*
-*.arxiv.org/*
 *.oed.com/*
 *.asonosakan.blogspot.com/*
 *.learnsanskrit.org/*
+*.arxiv.org/*
+*.nature.com/*
+*.science.org/*
+*.sciencedirect.com/*
+*.pnas.org/*
+*.springer.com/*
+*.aps.org/*
+*.iop.org/*
+*.quantum-journal.com/*
 *.joinfediverse.wiki/*
 *.akkoma.dev/*
 *.friendi.ca/*
@@ -133,4 +141,5 @@
 *.askubuntu.com/*
 *.superuser.com/*
 *.mathoverflow.net/*
+*.weblio.jp/*
 
