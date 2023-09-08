@@ -32,7 +32,13 @@ jobs:
         shell: bash
         run: |
           rm -f allowlist_readable.md
+          first=true
           for file in $(find src -type f -name "*.txt" -print | sort -h); do
+            if [ "$first" = true ]; then
+              first=false
+            else
+              echo "" >> allowlist_readable.md
+            fi
             heading=$(sed "s/_/ /g; s/\<./\U&/g" <<< "${file:4:-4}")
             for w in "a" "an" "the" "and" "or" "of" "for" "with"; do
               heading=$(sed "s/ ${w^} / ${w} /g" <<< "${heading}")
@@ -47,7 +53,6 @@ jobs:
                 echo "- ${line}" >> allowlist_readable.md
               fi
             done
-            echo "" >> allowlist_readable.md
           done
       - name: Generate allowlist.txt
         shell: bash
@@ -62,7 +67,6 @@ jobs:
               fi
             done
           done
-          echo "" >> allowlist.txt
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: update allowlist
