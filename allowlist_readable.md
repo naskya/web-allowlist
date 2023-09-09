@@ -190,9 +190,6 @@
 - hatenablog.com
 - blogspot.com
 
-## Dictionary
-- weblio.jp
-
 ## Software development
 - github.com
 - codeberg.org

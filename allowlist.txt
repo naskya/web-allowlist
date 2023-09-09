@@ -124,7 +124,6 @@
 *.uub.jp/*
 *.warhistory-quest.blog.jp/*
 *.weblio.jp/*
-*.weblio.jp/*
 *.who.int/*
 *.wikibooks.org/*
 *.wikidata.org/*
