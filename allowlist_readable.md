@@ -11,12 +11,14 @@
 - *.edu
 - *.ac.uk
 - oed.com
+- ibiblio.org
 
 ## Individuals
 - asonosakan.blogspot.com
 - learnsanskrit.org
+- cruel.org
 
-## Articles
+## Journals
 
 ### Natural Science
 - arxiv.org
@@ -101,22 +103,29 @@
 - ufcpp.net
 
 ## military
+- usni.org
 - cmano-db.com
 - scramble.nl
 - globalsecurity.org
 - globalmil.com
 - uscarriers.net
+- navsource.org
+- hazegray.org
 - battleorder.org
 - torakyojin88.web.fc2.com
 - torakyojin88z.web.fc2.com
 - secretprojects.co.uk
 - warhistory-quest.blog.jp
 - learningmilitaryscience.com
+- seesaawiki.jp/w/namacha2
+- uboat.net
+- russianships.info
 
 ## sci-fi
 - projectrho.com
 - toughsf.blogspot.com
 - www2a.biglobe.ne.jp/~mizuki
+- closed-worlds.com
 
 ## math
 - manabitimes.jp
@@ -125,13 +134,18 @@
 
 ## other
 - uub.jp
+- honkawa2.sakura.ne.jp
 
 # Internet Anarchists
 ## General
 - mozilla.org
 
-### Archive
+### Archives and Libraries
 - archive.org
+- sci-hub.se
+- libgen.is
+- gutenberg.org
+- aozora.gr.jp
 
 ### Wikimedia
 - wikimedia.org

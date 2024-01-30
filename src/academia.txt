@@ -10,12 +10,14 @@ kek.jp
 *.edu
 *.ac.uk
 oed.com
+ibiblio.org
 
 # Individuals
 asonosakan.blogspot.com
 learnsanskrit.org
+cruel.org
 
-# Articles
+# Journals
 
 ## Natural Science
 arxiv.org

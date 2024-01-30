@@ -3,6 +3,7 @@
 *.aip.org/*
 *.akkoma.dev/*
 *.alg-d.com/math/*
+*.aozora.gr.jp/*
 *.aps.org/*
 *.archive.org/*
 *.archlinux.jp/*
@@ -12,9 +13,11 @@
 *.asonosakan.blogspot.com/*
 *.battleorder.org/*
 *.blogspot.com/*
+*.closed-worlds.com/*
 *.cmano-db.com/*
 *.codeberg.org/*
 *.cppreference.com/*
+*.cruel.org/*
 *.ctan.org/*
 *.ctbto.org/*
 *.cython.org/*
@@ -37,10 +40,14 @@
 *.go.jp/*
 *.gotosocial.org/*
 *.gov/*
+*.gutenberg.org/*
 *.haskell.org/*
 *.hatenablog.com/*
 *.hubzilla.org/*
+*.hazegray.org/*
+*.honkawa2.sakura.ne.jp/*
 *.iaea.org/*
+*.ibiblio.org/*
 *.icao.int/*
 *.ifad.org/*
 *.ifc.org/*
@@ -65,6 +72,7 @@
 *.learningmilitaryscience.com/*
 *.learnsanskrit.org/*
 *.lg.jp/*
+*.libgen.is/*
 *.linuxquestions.org/*
 *.lua.org/*
 *.manabitimes.jp/*
@@ -78,6 +86,7 @@
 *.misskey-hub.net/*
 *.mozilla.org/*
 *.nature.com/*
+*.navsource.org/*
 *.nim-lang.org/*
 *.ocaml.org/*
 *.oed.com/*
@@ -94,13 +103,16 @@
 *.quantum-journal.org/*
 *.reddit.com/*
 *.riken.jp/*
+*.russianships.info/*
 *.rust-lang.org/*
+*.sci-hub.se/*
 *.science.org/*
 *.sciencedirect.com/*
 *.scipost.org/*
 *.scramble.nl/*
 *.scrapbox.io/*
 *.secretprojects.co.uk/*
+*.seesaawiki.jp/w/namacha2/*
 *.serverfault.com/*
 *.springer.com/*
 *.stackexchange.com/*
@@ -113,6 +125,7 @@
 *.torakyojin88z.web.fc2.com/*
 *.toughsf.blogspot.com/*
 *.twitter.com/*
+*.uboat.net/*
 *.ufcpp.net/*
 *.un.org/*
 *.unesco.org/*
@@ -121,6 +134,7 @@
 *.unwto.org/*
 *.upu.int/*
 *.uscarriers.net/*
+*.usni.org/*
 *.uub.jp/*
 *.warhistory-quest.blog.jp/*
 *.weblio.jp/*
