@@ -43,9 +43,9 @@
 *.gutenberg.org/*
 *.haskell.org/*
 *.hatenablog.com/*
-*.hubzilla.org/*
 *.hazegray.org/*
 *.honkawa2.sakura.ne.jp/*
+*.hubzilla.org/*
 *.iaea.org/*
 *.ibiblio.org/*
 *.icao.int/*
